@@ -55,13 +55,11 @@ freelance-connect/
 ## 📷 Preview
 
 ### Landing Page
-![Landing Page](./assets/landing-preview.png)
+![Landing Page](./landing-preview.png)
 
 ### Dashboard
-![Dashboard](./assets/dashboard-preview.png)
+![Dashboard](./dashboard-preview.png)
 
-### Milestone Payment Contract
-![Contract Preview](./assets/contract-preview.png)
 
 > 📁 Add your screenshots inside an `/assets` folder in the root directory.
 
@@ -118,31 +116,3 @@ Contracts include:
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License.
-```
-
----
-
-### 📷 Image Ideas You Can Add
-
-You can take screenshots of:
-
-- Landing page
-- Project listing page
-- Freelancer dashboard
-- Milestone creation flow
-- Smart contract interaction popup
-
-Make sure to **save them as PNG/JPG** inside a new folder called `assets/` in your project root and name them like:
-```
-assets/
-├── landing-preview.png
-├── dashboard-preview.png
-├── contract-preview.png
-```
-
----
-
-Let me know if you want me to auto-generate these image mockups or edit the README further for deployment instructions (e.g., Vercel, Sepolia, etc).
